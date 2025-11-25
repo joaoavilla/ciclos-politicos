@@ -1,10 +1,10 @@
 # Análise de Ciclos Político-Orçamentários Estaduais (2015–2024)
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 Este projeto tem como objetivo principal realizar uma **análise econométrica de ciclos político-orçamentários de natureza oportunista** nos governos estaduais brasileiros [1]. O foco é verificar empiricamente se os governadores elevam ou realocam despesas em funções orçamentárias mais visíveis ao eleitorado nos períodos que antecedem e coincidem com as eleições estaduais (2018 e 2022) [1, 2].
 
-## 🔎 Metodologia e Dados
+## Metodologia e Dados
 
 ### Fontes de Dados
 
@@ -30,7 +30,7 @@ A análise foi conduzida usando modelos de **Regressão em Dados em Painel** [1]
 *   O **Teste de Hausman** rejeitou a hipótese nula para todas as funções, indicando que o **Modelo de Efeitos Fixos (FE)** é o mais apropriado (preferido) para capturar as características não observadas e invariáveis das Unidades Federativas (UFs) [15-20].
 *   O **Teste de Wooldridge** rejeitou a hipótese nula de não haver autocorrelação serial, confirmando a necessidade de usar **erros-padrão clusterizados por UF** para garantir inferências válidas [21-23].
 
-## 📊 Resultados e Principais Descobertas
+## Resultados e Principais Descobertas
 
 O modelo final de Efeitos Fixos com erros clusterizados aponta evidências de comportamento oportunista nas despesas em torno dos anos eleitorais (coeficientes expressos em pontos percentuais - p.p.):
 
