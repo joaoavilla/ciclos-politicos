@@ -45,7 +45,7 @@ O modelo final de Efeitos Fixos com erros clusterizados aponta evidências de co
 
 ***Legenda de Significância:** *** p < 0.01; ** p < 0.05; * p < 0.1.
 
-## 💻 Estrutura e Tecnologias
+## Estrutura e Tecnologias
 
 ### Tecnologias Utilizadas
 
